@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Array of navbar items
     const navItems = [
-        { text: 'home', href: '/' },
+        { text: 'home', href: '#' },
         { text: 'our\'s special', href: 'ourSpcl.html' },
         { text: 'popular foods', href: 'popularFood.html' },
         { text: 'gallery', href: 'gallery.html' },
